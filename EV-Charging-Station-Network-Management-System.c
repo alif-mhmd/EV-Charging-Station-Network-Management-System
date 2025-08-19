@@ -1,10 +1,4 @@
-/*
---Electric Vehicle (EV) Charging Station Network Management--
-
-This C program implements a basic management system for a network of Electric Vehicle (EV) charging stations. It uses a user-defined structure to represent
-each charging station, including station ID, station name, location, number of available & total charging ports, charging time, charger types and
-charging price per kWh. We can view details of all charging stations, search for stations by location and sort stations by charging price(low to high).
-*/
+//--Electric Vehicle (EV) Charging Station Network Management--//
 
 #include <stdio.h>
 #include <string.h>
